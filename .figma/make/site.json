@@ -1,0 +1,10 @@
+{
+  "description": "Easily generate customizable green squares for design projects, presentations, or educational purposes, enhancing visual content with simplicity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
