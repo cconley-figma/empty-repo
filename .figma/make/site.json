@@ -1,5 +1,5 @@
 {
-  "description": "This web app provides a clean interface featuring a centered blue square and a label, ideal for showcasing repository proof in a minimalistic design.",
+  "description": "This web application features a clean interface with a centered blue square and a label, designed for users needing a simple proof of repository connection.",
   "robots": {
     "index": false
   },
