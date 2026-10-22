@@ -1,0 +1,5 @@
+{
+  // Reinstall dependencies when package metadata changes.
+  "installOn": ["package.json", "pnpm-lock.yaml"],
+  "restartOn": ["vite.config.ts"]
+}

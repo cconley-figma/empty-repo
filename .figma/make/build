@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+app_dir="$(CDPATH= cd -- "$(dirname -- "$0")/../.." && pwd)"
+cd "$app_dir"
+exec pnpm run build
