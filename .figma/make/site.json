@@ -1,0 +1,10 @@
+{
+  "description": "A simple repository-connection demo lets users increment and reset a counter, providing a quick way to preview basic app interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
