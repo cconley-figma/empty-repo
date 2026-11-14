@@ -81,7 +81,7 @@ export default function App() {
                 Launch checklist
               </h1>
               <p className="mt-4 max-w-[260px] text-sm leading-6 text-[#b9c4d6]">
-                One last pass before your release goes live.
+                Everything you need for a confident launch.
               </p>
             </div>
 
